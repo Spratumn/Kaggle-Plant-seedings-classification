@@ -1,3 +1,4 @@
 # Plant-seedings-classification
 this is a script of my fist kaggle competition.
-download [imagenet-vgg-verydeep-16.mat](http://example.com/)
+
+[imagenet-vgg-verydeep-16.mat](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-16.mat)
